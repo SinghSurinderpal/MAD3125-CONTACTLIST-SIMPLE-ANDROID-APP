@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contactlist</string>
+    <string name="pick_image_intent_text">Please Select the Image</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

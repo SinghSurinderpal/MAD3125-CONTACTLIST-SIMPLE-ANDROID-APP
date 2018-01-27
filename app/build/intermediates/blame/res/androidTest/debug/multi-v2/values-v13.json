@@ -1,0 +1,109 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/surinderpalsinghsidhu/Desktop/Contactlist 2/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/surinderpalsinghsidhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/92d01faabcefa3bed5a93cb1f0183c72/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/surinderpalsinghsidhu/Documents/extras/Contactlist 2/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/surinderpalsinghsidhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/92d01faabcefa3bed5a93cb1f0183c72/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/surinderpalsinghsidhu/Downloads/Contactlist/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/surinderpalsinghsidhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/92d01faabcefa3bed5a93cb1f0183c72/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/surinderpalsinghsidhu/Desktop/Contactlist/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/surinderpalsinghsidhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/92d01faabcefa3bed5a93cb1f0183c72/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/surinderpalsinghsidhu/Downloads/project (1)/Contactlist 2/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/surinderpalsinghsidhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/92d01faabcefa3bed5a93cb1f0183c72/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/surinderpalsinghsidhu/Downloads/Contactlist 2 3/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/surinderpalsinghsidhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/92d01faabcefa3bed5a93cb1f0183c72/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/surinderpalsinghsidhu/Documents/untitled folder/Contactlist 2/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/surinderpalsinghsidhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/92d01faabcefa3bed5a93cb1f0183c72/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}
